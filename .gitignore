@@ -2,10 +2,11 @@
 .idea
 *.log
 tmp/
-
 secrets.py
-
 
 # Added by cargo
 /target
 /result
+
+# secrets
+.env
